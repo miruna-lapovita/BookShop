@@ -1,0 +1,9 @@
+1 Alice_in_wonderland 15
+2 The_Hunger_Games 30
+4 Looking_for_Alaska 17
+5 Inferno 55
+6 The_Great_Gatsby 43
+7 The_Mortal_Instruments 77
+8 Dune 95
+9 Divergent 50
+10 The_Laws_of_human_nature 90

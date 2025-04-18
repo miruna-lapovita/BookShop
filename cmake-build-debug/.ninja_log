@@ -1,0 +1,9 @@
+# ninja log v5
+9	85	7667045652505859	CMakeFiles/BookShop.dir/InvalidCodeException.cpp.obj	71502ae536c321b2
+6	497	7667045656535860	CMakeFiles/BookShop.dir/Bancnote.cpp.obj	4841d62751c3acdf
+4	507	7667045656725889	CMakeFiles/BookShop.dir/Book.cpp.obj	36f0d9465787b03a
+0	719	7667045658835870	CMakeFiles/BookShop.dir/main.cpp.obj	9ed99698a7ec7723
+16	781	7667045659465864	CMakeFiles/BookShop.dir/Tests.cpp.obj	570435e19909bd9f
+13	826	7667045659915849	CMakeFiles/BookShop.dir/Service.cpp.obj	87893c50c7a9e6ec
+19	859	7667045660245860	CMakeFiles/BookShop.dir/UI.cpp.obj	4e81171709343b63
+859	1098	7667045662615850	BookShop.exe	2c6e62c28074b30
